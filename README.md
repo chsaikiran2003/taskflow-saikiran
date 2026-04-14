@@ -99,7 +99,7 @@ migrate -path backend/migrations -database "postgres://taskflow:taskflow_secret@
 The seed script creates one user with three tasks across different statuses:
 
 ```
-Email:    test@example.com
+Email:    test1@example.com
 Password: password123
 ```
 
